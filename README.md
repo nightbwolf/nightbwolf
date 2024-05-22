@@ -9,6 +9,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beto_.sousa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto sousa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beto_.sousa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto sousa) ]
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/sql-%23FF9900.svg?style=for-the-badge&logo=sql-aws&logoColor=white) ](https://img.shields.io/badg-%23092E20.svg?style=for-the-badge&log&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/sql-%23FF9900.svg?style=for-the-badge&logo=sql-aws&logoColor=white) ](https://img.shields.io/badg-%23092E20.svg?style=for-the-badge&log&logoColor=white) ]
